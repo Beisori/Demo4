@@ -1,23 +1,27 @@
 H1 {
+    
     border: 5px groove blue;
+    width: 150px;
     margin: 100px 90px;
 	font-size: 30px;
 }
 
 H2 {
     border: 3px double red;
+    width: 100px;
     padding: 80px 70px;
 
 }
 
 P { 
     border-radius: 20px;
+    width: fit-content;
     background-color: blueviolet;
 	font-size:25px;
 	color: rgb(5, 189, 5);
 }
 
 body {
-	background-color: Gray;
+	background-color: beige;
 	color: black;
 }
